@@ -4,3 +4,5 @@ mapping things：
 * ConcurrentHashMap
 * LinkedHashMap
 * TreeMap
+
+![map](map.png)
